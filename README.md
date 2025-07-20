@@ -1,4 +1,4 @@
-# Robo-spy-pigeon-phone
+# Phones aren't real (Robo-spy-pigeon-phone)
 ## May 16, 2024
 Hello, welcome to my Robot-spy-pigeon-phone-assistant-project! (I'm bad at names I'll fix it later)
 This is an idea I've had in my head for ages, and I really want to document one of my procrastination projects properly, so I'm just going to put everything I do onto this github, then procrastinate on my procrastination by fixing it later. 
@@ -529,3 +529,19 @@ And of course, I've finally given up on making claws and we have a very nice bal
 <img width="1813" height="1581" alt="image" src="https://github.com/user-attachments/assets/4b7a55f9-5ca8-4f08-a0c1-e0ffa4fb7305" />
 
 <img width="715" height="1015" alt="image" src="https://github.com/user-attachments/assets/b73b5d1a-cae8-4f3f-b5a0-fe75439504f0" />
+
+## July 20, 2025
+Peak procrastination is:
+1. researching and buying [a 3d model of a galah](https://www.cgtrader.com/3d-models/various/various-models/galah-parrot-perched-model)
+2. Spending hours trying to make the model useable
+3. Giving up and using it as a template to make your own blender model (very dodgy)
+4. importing that blender model into solidworks several times trying to get the scale and simplicity right
+5. finding CAD models of every component to make a working assembly combining the shelled blender model with the existing balancing platform design
+6. trial HSC exams being in 3 weeks 💀
+
+Some screenshots:
+<img width="1014" height="983" alt="image" src="https://github.com/user-attachments/assets/da1c1b31-bc35-4d08-b439-087b0740c09d" />
+<img width="898" height="1231" alt="image" src="https://github.com/user-attachments/assets/afe95bce-370c-410e-b6ad-c6acfb4749c6" />
+<img width="980" height="1305" alt="image" src="https://github.com/user-attachments/assets/1da6c0de-cfae-46dc-b048-a65255a74241" />
+<img width="1482" height="1076" alt="image" src="https://github.com/user-attachments/assets/d230a337-04fa-4631-a871-53cffc7163ae" />
+<img width="1780" height="1086" alt="image" src="https://github.com/user-attachments/assets/3b1549d2-13ae-4841-8d7d-11ad40fbab7d" />
