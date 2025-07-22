@@ -545,3 +545,7 @@ Some screenshots:
 <img width="980" height="1305" alt="image" src="https://github.com/user-attachments/assets/1da6c0de-cfae-46dc-b048-a65255a74241" />
 <img width="1482" height="1076" alt="image" src="https://github.com/user-attachments/assets/d230a337-04fa-4631-a871-53cffc7163ae" />
 <img width="1780" height="1086" alt="image" src="https://github.com/user-attachments/assets/3b1549d2-13ae-4841-8d7d-11ad40fbab7d" />
+
+## July 22, 2025
+As expected, there are absolutely 0 issues (sarcasm) with my suspicious blender/solidworks monstrosity, but it's good to see how it looks and think about wires in the real world ig. 
+![WIN_20250722_14_59_12_Pro](https://github.com/user-attachments/assets/5c6c258a-aa60-402f-a3de-698b5638c10f)
