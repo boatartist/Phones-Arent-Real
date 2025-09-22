@@ -5,7 +5,7 @@ Challenging my attention span and the idea of a phone in a chaotic Raspberry Pi-
 
 The bird is powered by a Raspberry Pi Zero with a Raspberry Pi camera, a round touchscreen display, speaker, rechargeable battery, power and USB breakout boards, a USB microphone and a standard 4G modem dongle for internet and texts. It's a decidedly amateur build which pushed me to my limits as I struggled to compress a variety of incompatible libraries into the Pi's miniscule storage, teaching me about the backend of modems, image recognition algorithms, accelerometer boards and most importantly, the miracle that modern phones can fit all this and more in such as small rectangle and be so simultaneously boring and addictive.
 
-If you're interested in the gruesome details of this project you can find my full (and insane) logbook in the Wiki of this Github page, and I've included some diagrams, progress photos and instructions below, enjoy!
+If you're interested in the gruesome details of this project you can find my full (and insane) logbook in the Wiki of this Github page, and I've included some diagrams, progress photos and instructions below, enjoy! I also presented this project at PyconAU 2025 in the Education Showcase, here's [a link to the Youtube video](https://youtu.be/mqg93zv1S-E?si=xw9MhZZed1j-YQu7&t=452), which also includes some other incredible projects.
 
 ## Graphics, diagrams and soooooooooo many prototypes
 <img width="826" height="583" alt="wiring diagram" src="https://github.com/user-attachments/assets/787985b5-027f-4f46-8a9a-559c643953c7" />
